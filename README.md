@@ -1,4 +1,4 @@
-# LUIS-Dynamic-Intent #
+# LUIS-Dynamic-Intent-Bot #
 
 ## Scenario: ##
 When a bot is created with Azure Bot services then its intents are defined in LUIS (http://luis.ai) which are not dynamic. If there is a new intent that our bot needs to understand then a developer has to goto LUIS app and add a new intent (and utterences) and then train the app with new data.
